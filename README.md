@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<img src="https://recordit.co/WwyBF4s0AZ" width=200><br>
+<img src= "https://media.giphy.com/media/cL4xLybgogrhrTu0rE/giphy.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
