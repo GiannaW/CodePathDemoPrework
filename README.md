@@ -3,12 +3,11 @@
 ## Mobile App Demo
 
 ### App Description
-`TODO://` In this app
+   In this app the user can change the background color of the app along with the word displayed in the text box. This is a very simple app that test ability to use Xcode along with View Controllers.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://recordit.co/WwyBF4s0AZ" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
